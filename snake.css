@@ -1,0 +1,35 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: darkslategray;
+}
+#map {
+    border-style: outset;
+    border-width: 40px;
+    border-color: #704214;
+}
+button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: black;
+    color: lime;
+}
+div {
+    background-color: black;
+    color: lime;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+#prescore {
+    margin: 20px;
+}
+#score {
+    margin: 20px;
+}
+#highscore {
+    margin: 20px;
+}
